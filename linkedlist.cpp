@@ -1,5 +1,7 @@
-#include <iostream> // Including input-output stream header file
-
+#include <iostream> // Including iostream for input and output operations
+#include <cstdlib> // Including cstdlib for general utilities
+#include <cstdio> // Including cstdio for C-style input and output operations
+#include <cstring> // Including cstring for C-style string handling.\linked list.exe.\linked list.exe
 using namespace std; // Using standard namespace
 
 // Declare node structure
